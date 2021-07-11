@@ -1,5 +1,6 @@
 import React from "react";
 import "./about.css"
+import SocialLogin from "../../comman/social-login";
 
 export default function About() {
     return (
@@ -15,7 +16,7 @@ export default function About() {
                 </div>
             </div>
             <div className="about-bottom">
-
+                <SocialLogin />
             </div>
         </div>
     )
