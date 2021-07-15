@@ -38,6 +38,17 @@
     color: black;
 }
 
+.contact-phone {
+    width: 24px;
+    padding-right: 6px;
+}
+
+.contact-paragraph {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 @media only screen and (max-width: 720px) {
     .contact-container {
         flex-direction: column;

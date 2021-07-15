@@ -11,6 +11,10 @@ export default function Contact() {
             <div className="contact-container">
                 <div className="contact-left">
                     <p>Want to get in touch? Contact me on any of the platform.</p>
+                    <p className="contact-paragraph">
+                        <img src={require("../../../assets/icons/phone.png").default} className="contact-phone" alt="phone" />
+                        +91 90969 78887
+                    </p>
                     <SocialLogin />
                 </div>
                 <div className="contact-download">

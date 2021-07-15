@@ -7,7 +7,7 @@ export default function SocialLogin() {
         <div className="social-contact">
             {SocialData.map((item, idx) => {
                 return (
-                    <a href={item.link} key={idx}>
+                    <a href={item.link} key={idx} target="_blank" rel="noreferrer">
                         <div className="social-icon-div">
                             <img src={item.icon} className="social-icon" alt={item.platform} />
                         </div>
