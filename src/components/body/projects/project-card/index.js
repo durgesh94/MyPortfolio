@@ -29,7 +29,7 @@ export default function ProjectCard({ project }) {
                     })}
                 </div>
             </div>
-            <img src={project.images} className="project-photo" alt={project.name} />
+            <img src={project.images} className="project-photo" alt={project.name} alt="projects"/>
         </div>
     )
 }

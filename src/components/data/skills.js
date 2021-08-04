@@ -12,6 +12,14 @@ export const SkillsData = [
         type: "Frontend",
         list: [
             {
+                name: "HTML",
+                icon: <i className="devicon-html5-plain colored"></i>
+            },
+            {
+                name: "CSS",
+                icon: <i className="devicon-css3-plain colored"></i>
+            },
+            {
                 name: "Javascript",
                 icon: <i className="devicon-javascript-plain colored"></i>
             },
@@ -48,6 +56,23 @@ export const SkillsData = [
             {
                 name: "MySQL",
                 icon: <i className="devicon-mysql-plain colored"></i>
+            }
+        ]
+    },
+    {
+        type: "General",
+        list: [
+            {
+                name: "Git",
+                icon: <i className="devicon-git-plain colored"></i>
+            },
+            {
+                name: "Trello",
+                icon: <i className="devicon-trello-plain colored"></i>
+            },
+            {
+                name: "VSCode",
+                icon: <i className="devicon-vscode-plain colored"></i>
             }
         ]
     }

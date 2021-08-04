@@ -10,7 +10,7 @@ export const ProjectsData = [
     },
     {
         id: 1,
-        title: "Covid-19 Tracker",
+        title: "Covid-19 Tracker-2",
         about: "Covid 19 cases tracker by country wise shown on graph & count of the infected, recovered & death cases.",
         tags: ["ReactJS", "NodeJS", "MongoDB", "Heruko", "GitHub", "Git", "CI/CD", "ReactJS", "NodeJS", "MongoDB", "Heruko", "GitHub", "Git", "CI/CD"],
         demo: "https://durgesh94.github.io/production",
