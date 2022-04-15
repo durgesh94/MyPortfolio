@@ -1,6 +1,6 @@
 import React from "react";
 import "./social-login.css";
-import { SocialData } from "../../data/social";
+import { SocialData } from "../../../assets/data/social";
 
 export default function SocialLogin() {
     return (

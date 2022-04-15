@@ -1,7 +1,7 @@
 import React from "react";
 import "./skills.css";
 import Separator from "../../comman/separator";
-import { SkillsData } from "../../data/skills";
+import { SkillsData } from "../../../assets/data/skills";
 import SkillCard from "./skill-card";
 
 export default function Skills() {

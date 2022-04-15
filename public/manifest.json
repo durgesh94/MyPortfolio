@@ -5,7 +5,7 @@
   "background_color": "#f04a0e",
   "display": "standalone",
   "scope": "/",
-  "start_url": "https://durgesh-portfolio.herokuapp.com",
+  "start_url": "/",
   "icons": [
     {
       "src": "maskable.png",

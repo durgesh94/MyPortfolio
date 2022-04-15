@@ -1,7 +1,7 @@
 import React from "react";
 import "./work.css";
 import Separator from "../../comman/separator";
-import { WorkData } from "../../data/work";
+import { WorkData } from "../../../assets/data/work";
 import WorkCard from "./work-card";
 
 export default function Work() {
