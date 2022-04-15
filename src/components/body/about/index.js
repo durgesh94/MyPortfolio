@@ -12,7 +12,7 @@ export default function About() {
                     <br />I love experimenting with the web.
                 </div>
                 <div className="about-photo">
-                    <img src={require("../../../assets/durgesh.jpg").default} alt="Durgesh" className="picture" />
+                    <img src={require("../../../assets/images/durgesh-2.png").default} alt="Durgesh" className="picture" />
                 </div>
             </div>
             <div className="about-bottom">
