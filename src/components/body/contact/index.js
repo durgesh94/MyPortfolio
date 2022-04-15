@@ -19,7 +19,7 @@ export default function Contact() {
                 </div>
                 <div className="contact-download">
                     <a download href={require("../../../assets/resumes/durgesh_v2.0.0.pdf").default}>
-                        <i className="fi-rr-download"></i>Download Resume
+                        <i className="fi-rr-download"></i>{'  '}Download Resume
                     </a>
                 </div>
             </div>
