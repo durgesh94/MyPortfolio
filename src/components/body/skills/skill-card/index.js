@@ -5,7 +5,7 @@ export default function SkillCard({ skill }) {
     return (
         <div className="skill-card">
             <div className="skill-icon">
-                {skill.icon}
+                <i className={skill.icon}/>
             </div>
             <label className="skill-name">
                 {skill.name}

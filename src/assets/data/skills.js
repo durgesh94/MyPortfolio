@@ -3,8 +3,8 @@ export const SkillsData = [
         type: "Mobile",
         list: [
             {
-                name: "React Native",
-                icon: <i className="devicon-react-original colored"/>
+                "name": "React Native",
+                "icon": "devicon-react-original colored"
             }
         ]
     },
@@ -12,32 +12,32 @@ export const SkillsData = [
         type: "Frontend",
         list: [
             {
-                name: "HTML",
-                icon: <i className="devicon-html5-plain colored"/>
+                "name": "HTML",
+                "icon": "devicon-html5-plain colored"
             },
             {
-                name: "CSS",
-                icon: <i className="devicon-css3-plain colored"/>
+                "name": "CSS",
+                "icon": "devicon-css3-plain colored"
             },
             {
-                name: "Javascript",
-                icon: <i className="devicon-javascript-plain colored"/>
+                "name": "Javascript",
+                "icon": "devicon-javascript-plain colored"
             },
             {
-                name: "Typescript",
-                icon: <i className="devicon-typescript-plain colored"/>
+                "name": "Typescript",
+                "icon": "devicon-typescript-plain colored"
             },
             {
-                name: "ReactJS",
-                icon: <i className="devicon-react-original colored"/>
+                "name": "ReactJS",
+                "icon": "devicon-react-original colored"
             },
             {
-                name: "NextJS",
-                icon: <i className="devicon-nextjs-original colored"/>
+                "name": "NextJS",
+                "icon": "devicon-nextjs-original colored"
             },
             {
-                name: "Angular",
-                icon: <i className="devicon-angularjs-plain colored"/>
+                "name": "Angular",
+                "icon": "devicon-angularjs-plain colored"
             }
         ]
     },
@@ -45,20 +45,20 @@ export const SkillsData = [
         type: "Backend",
         list: [
             {
-                name: "NodeJS",
-                icon: <i className="devicon-nodejs-plain colored"/>
+                "name": "NodeJS",
+                "icon": "devicon-nodejs-plain colored"
             },
             {
-                name: "ExpressJS",
-                icon: <i className="devicon-express-original colored"/>
+                "name": "ExpressJS",
+                "icon": "devicon-express-original colored"
             },
             {
-                name: "Strapi",
-                icon: <i className="devicon-nodejs-plain-wordmark colored"/>
+                "name": "Strapi",
+                "icon": "devicon-nodejs-plain-wordmark colored"
             },
             {
-                name: "8base",
-                icon: <i className="devicon-nodejs-plain colored"/>
+                "name": "8base",
+                "icon": "devicon-nodejs-plain colored"
             }
         ]
     },
@@ -66,12 +66,12 @@ export const SkillsData = [
         type: "Database",
         list: [
             {
-                name: "MongoDB",
-                icon: <i className="devicon-mongodb-plain colored"/>
+                "name": "MongoDB",
+                "icon": "devicon-mongodb-plain colored"
             },
             {
-                name: "MySQL",
-                icon: <i className="devicon-mysql-plain colored"/>
+                "name": "MySQL",
+                "icon": "devicon-mysql-plain colored"
             }
         ]
     },
@@ -79,40 +79,40 @@ export const SkillsData = [
         type: "General",
         list: [
             {
-                name: "Git",
-                icon: <i className="devicon-git-plain colored"/>
+                "name": "Git",
+                "icon": "devicon-git-plain colored"
             },
             {
-                name: "GitHub",
-                icon: <i className="devicon-github-original colored"/>
+                "name": "GitHub",
+                "icon": "devicon-github-original colored"
             },
             {
-                name: "Trello",
-                icon: <i className="devicon-trello-plain colored"/>
+                "name": "Trello",
+                "icon": "devicon-trello-plain colored"
             },
             {
-                name: "Jira",
-                icon: <i className="devicon-jira-plain colored"/>
+                "name": "Jira",
+                "icon": "devicon-jira-plain colored"
             },
             {
-                name: "VSCode",
-                icon: <i className="devicon-vscode-plain colored"/>
+                "name": "VSCode",
+                "icon": "devicon-vscode-plain colored"
             },
             {
-                name: "XCode",
-                icon: <i className="devicon-xcode-plain colored"/>
+                "name": "XCode",
+                "icon": "devicon-xcode-plain colored"
             },
             {
-                name: "Figma",
-                icon: <i className="devicon-figma-plain colored"/>
+                "name": "Figma",
+                "icon": "devicon-figma-plain colored"
             },
             {
-                name: "NPM",
-                icon: <i className="devicon-npm-original-wordmark colored"/>
+                "name": "NPM",
+                "icon": "devicon-npm-original-wordmark colored"
             },
             {
-                name: "GraphQL",
-                icon: <i className="devicon-graphql-plain colored"/>
+                "name": "GraphQL",
+                "icon": "devicon-graphql-plain colored"
             }
         ]
     },
@@ -120,8 +120,8 @@ export const SkillsData = [
         type: "Learning",
         list: [
             {
-                name: "Redux",
-                icon: <i className="devicon-redux-original colored"/>
+                "name": "Redux",
+                "icon": "devicon-redux-original colored"
             }
         ]
     }
