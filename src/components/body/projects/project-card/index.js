@@ -14,22 +14,22 @@ export default function ProjectCard({ project }) {
                             </div>
                         </a>
                     }
-                    {project.github &&
-                        <a className="project-links" href={project.github} target="_blank" rel="noreferrer">
+                    {project.repo &&
+                        <a className="project-links" href={project.repo} target="_blank" rel="noreferrer">
                             <div className="link-button">
                                 <i className="devicon-github-original colored"></i>Github
                             </div>
                         </a>
                     }
                 </div>
-                <p>{project.about}</p>
+                <p>{project.description}</p>
                 <div className="project-tags">
                     {project.tags.map((tag, idx) => {
                         return <label key={idx} className="tag">{tag}</label>
                     })}
                 </div>
             </div>
-            <img src={project.images} className="project-photo" alt={project.name} height="auto"/>
+            <img src={project.image.downloadUrl} className="project-photo" alt={project.image.downloadURL} height="auto"/>
         </div>
     )
 }

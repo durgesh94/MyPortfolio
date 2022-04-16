@@ -18,6 +18,17 @@
     flex-direction: column;
 }
 
+.work-designation {
+    font-size: larger;
+    font-weight: bold;
+    line-height: 30px;
+}
+
+.company-name {
+    font-size: small;
+    line-height: 20px;
+}
+
 .work-dates {
     color: rgb(77, 73, 73);
 }
