@@ -1,9 +1,17 @@
 export const WorkData = [
     {
+        company: "Johnson Controls (India) Pvt. Ltd.",
+        designation: "Sr. Software Engineer",
+        dateOfJoining: "01-Sept-2022",
+        dateOfLeaving: "Till Present",
+        companyLogo: require("../../assets/logo/itwox.jpg").default,
+        work: "Working on react native technology. work as designing the components and API integration in the project."
+    },
+    {
         company: "ITWox Inc",
         designation: "Software Engineer",
         dateOfJoining: "20-July-2020",
-        dateOfLeaving: "Till Present",
+        dateOfLeaving: "30-Aug-2022",
         companyLogo: require("../../assets/logo/itwox.jpg").default,
         work: "Working on react native technology. work as designing the components and API integration in the project."
     },
