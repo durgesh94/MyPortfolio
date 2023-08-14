@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a9ffada.css",
+    "main.js": "/static/js/main.4981aa5e.js",
+    "static/js/787.bf4914cc.chunk.js": "/static/js/787.bf4914cc.chunk.js",
+    "static/media/durgesh-2.png": "/static/media/durgesh-2.aceee92f19a5dcb9ced3.png",
+    "static/media/durgesh_v2.0.0.pdf": "/static/media/durgesh_v2.0.0.280a13c4fe21ae81c129.pdf",
+    "service-worker.js": "/service-worker.js",
+    "static/media/covid19.png": "/static/media/covid19.9a0c68a5ef46df38e013.png",
+    "static/media/kanbanboard.png": "/static/media/kanbanboard.25fe330ffeef3ee4ae9a.png",
+    "static/media/bms.png": "/static/media/bms.ea543d35c3bab52580cc.png",
+    "static/media/varahi.png": "/static/media/varahi.d8bb83c2061d55d459e7.png",
+    "index.html": "/index.html",
+    "main.6a9ffada.css.map": "/static/css/main.6a9ffada.css.map",
+    "main.4981aa5e.js.map": "/static/js/main.4981aa5e.js.map",
+    "787.bf4914cc.chunk.js.map": "/static/js/787.bf4914cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a9ffada.css",
+    "static/js/main.4981aa5e.js"
+  ]
+}
