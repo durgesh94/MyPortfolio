@@ -38,6 +38,10 @@ export const SkillsData = [
             {
                 "name": "Angular",
                 "icon": "devicon-angularjs-plain colored"
+            },
+            {
+                "name": "Redux",
+                "icon": "devicon-redux-original colored"
             }
         ]
     },
@@ -95,6 +99,10 @@ export const SkillsData = [
                 "icon": "devicon-jira-plain colored"
             },
             {
+                "name": "Azure DevOps",
+                "icon": "devicon-azure-plain colored"
+            },
+            {
                 "name": "VSCode",
                 "icon": "devicon-vscode-plain colored"
             },
@@ -120,8 +128,8 @@ export const SkillsData = [
         type: "Learning",
         list: [
             {
-                "name": "Redux",
-                "icon": "devicon-redux-original colored"
+                "name": "Flutter",
+                "icon": "devicon-flutter-plain colored"
             }
         ]
     }

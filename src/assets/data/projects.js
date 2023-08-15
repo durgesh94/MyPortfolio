@@ -6,7 +6,7 @@ export const ProjectsData = [
         tags: ["ReactJS", "GitHub.io", "GitHub", "Git"],
         demo: "https://durgesh94.github.io/production",
         github: "https://github.com/durgesh94/react_covid-19",
-        images: require("../../assets/images/covid19.png").default
+        images: require("../../assets/images/covid19.png")
     },
     {
         id: 2,
@@ -15,7 +15,7 @@ export const ProjectsData = [
         tags: ["ReactJS", "Render", "GitHub", "Git"],
         demo: "https://kanbanboard.onrender.com/",
         github: "https://github.com/durgesh94/kanban-board",
-        images: require("../../assets/images/kanbanboard.png").default
+        images: require("../../assets/images/kanbanboard.png")
     },
     {
         id: 3,
@@ -24,6 +24,6 @@ export const ProjectsData = [
         tags: ["React Native", "Expo", "GitHub", "Git"],
         demo: "https://kanbanboard.onrender.com/",
         github: "https://github.com/durgesh94/kanban-board",
-        images: require("../../assets/images/bms.png").default
+        images: require("../../assets/images/bms.png")
     }
 ]
