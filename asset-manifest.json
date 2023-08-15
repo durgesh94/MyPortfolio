@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.6a9ffada.css",
-    "main.js": "/static/js/main.542af593.js",
+    "main.js": "/static/js/main.a32d66dc.js",
     "static/js/787.bf4914cc.chunk.js": "/static/js/787.bf4914cc.chunk.js",
     "static/media/durgesh-2.png": "/static/media/durgesh-2.aceee92f19a5dcb9ced3.png",
     "static/media/durgesh_v1.0.4.pdf": "/static/media/durgesh_v1.0.4.925d0418d6b2b77fc02e.pdf",
+    "static/media/kanbanboard.jpg": "/static/media/kanbanboard.085430a25ddc53ae2d52.jpg",
+    "static/media/covid19.jpg": "/static/media/covid19.78144804ca1ab69d0721.jpg",
     "service-worker.js": "/service-worker.js",
-    "static/media/covid19.png": "/static/media/covid19.9a0c68a5ef46df38e013.png",
-    "static/media/kanbanboard.png": "/static/media/kanbanboard.25fe330ffeef3ee4ae9a.png",
-    "static/media/bms.png": "/static/media/bms.ea543d35c3bab52580cc.png",
-    "static/media/jci.png": "/static/media/jci.fe311024694dd52ce611.png",
-    "static/media/varahi.png": "/static/media/varahi.d8bb83c2061d55d459e7.png",
+    "static/media/jci.jpg": "/static/media/jci.6b1b5c73bbce644d29a6.jpg",
+    "static/media/bms.jpg": "/static/media/bms.cffc473064118c728ed4.jpg",
     "index.html": "/index.html",
     "main.6a9ffada.css.map": "/static/css/main.6a9ffada.css.map",
-    "main.542af593.js.map": "/static/js/main.542af593.js.map",
+    "main.a32d66dc.js.map": "/static/js/main.a32d66dc.js.map",
     "787.bf4914cc.chunk.js.map": "/static/js/787.bf4914cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a9ffada.css",
-    "static/js/main.542af593.js"
+    "static/js/main.a32d66dc.js"
   ]
 }
