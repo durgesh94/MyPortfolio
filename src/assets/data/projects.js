@@ -22,8 +22,8 @@ export const ProjectsData = [
         title: "Booking Management System",
         about: "A reservation management system is a digital application that securely collects and stores your property's bookings. There is mulitple type of booking is possible through this app, just for sample app have created.",
         tags: ["React Native", "Expo", "GitHub", "Git"],
-        demo: "https://kanbanboard.onrender.com/",
-        github: "https://github.com/durgesh94/kanban-board",
+        demo: "https://github.com/durgesh94/booking-management-system",
+        github: "https://github.com/durgesh94/booking-management-system",
         images: require("../../assets/images/bms.jpg")
     }
 ]

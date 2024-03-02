@@ -9,7 +9,7 @@ export default function About() {
                 <div className="about-info">
                     Hello there, I am
                     <br /><span className="info-name">Durgesh Tambe</span>,
-                    <br />I love experimenting with the web.
+                    <br />I love experimenting with the web & mobile.
                 </div>
                 <div className="about-photo">
                     <img src={require("../../../assets/images/durgesh-2.png")} alt="Durgesh" className="picture" />

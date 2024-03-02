@@ -12,8 +12,12 @@ export default function CertificateCard({ item }) {
                     <label>Issued {item.issuedDate}</label>
                 </div>
                 <div className="cert-desc">
-                    {item.skills && item.skills.map((item, idx) => {
-                        return (<span>{item}, </span>)
+                    {item.skills && item.skills.map((skill, idx) => {
+                        return (
+                            <span>
+                                {skill}{idx < item.skills.length - 1 ? <span>, </span> : null}
+                            </span>
+                        );
                     })}
                 </div>
                 <div className="cert-desc">
