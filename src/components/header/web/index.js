@@ -20,6 +20,11 @@ export default function Web() {
                 </a>
             </div>
             <div className="web-option">
+                <a href="#certificates">
+                    <i className="fi fi-rr-diploma option-icon"></i>Certifications
+                </a>
+            </div>
+            <div className="web-option">
                 <a href="#contact">
                 <i className="fi-rr-user option-icon"></i>Contact
                 </a>

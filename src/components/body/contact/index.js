@@ -18,7 +18,7 @@ export default function Contact() {
                     <SocialLogin />
                 </div>
                 <div className="contact-download">
-                    <a download href={require("../../../assets/resumes/durgesh_v1.0.4.pdf")}>
+                    <a download href={require("../../../assets/resumes/durgesh_v1.0.5.pdf")}>
                         <i className="fi-rr-download"></i>{'  '}Download Resume
                     </a>
                 </div>

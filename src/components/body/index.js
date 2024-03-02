@@ -5,6 +5,7 @@ import Projects from "./projects";
 import Skills from "./skills";
 import Work from "./work";
 import Contact from "./contact";
+import Certificate from "./certificate";
 
 export default function Body() {
     return (
@@ -20,6 +21,9 @@ export default function Body() {
             </section>
             <section id="work">
                 <Work />
+            </section>
+            <section id="certificates">
+                <Certificate />
             </section>
             <section id="contact">
                 <Contact />

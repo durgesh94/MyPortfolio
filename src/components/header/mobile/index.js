@@ -24,6 +24,11 @@ export default function Mobile({ isOpen, setIsOpen }) {
                     </a>
                 </div>
                 <div className="mobile-option" onClick={() => setIsOpen(!isOpen)}>
+                    <a href="#certificates">
+                        <i className="fi fi-rr-diploma option-icon"></i>Certifications
+                    </a>
+                </div>
+                <div className="mobile-option" onClick={() => setIsOpen(!isOpen)}>
                     <a href="#contact">
                     <i className="fi-rr-user option-icon"></i>Contact
                     </a>

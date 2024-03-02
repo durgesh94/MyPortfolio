@@ -130,6 +130,14 @@ export const SkillsData = [
             {
                 "name": "Flutter",
                 "icon": "devicon-flutter-plain colored"
+            },
+            {
+                "name": "AWS",
+                "icon": "devicon-amazonwebservices-plain-wordmark colored"
+            },
+            {
+                "name": "Jenkins",
+                "icon": "devicon-jenkins-line colored"
             }
         ]
     }

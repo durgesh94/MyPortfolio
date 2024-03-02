@@ -3,7 +3,7 @@ export const WorkData = [
         company: "Johnson Controls (India) Pvt. Ltd.",
         designation: "Sr. Software Engineer",
         dateOfJoining: "01-Sept-2022",
-        dateOfLeaving: "Till Present",
+        dateOfLeaving: "Present",
         companyLogo: require("../../assets/logo/jci.jpg"),
         work: "Working on react native technology. work as designing the components and API integration in the project."
     },
