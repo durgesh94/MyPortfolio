@@ -14,7 +14,7 @@ export default function CertificateCard({ item }) {
                 <div className="cert-desc">
                     {item.skills && item.skills.map((skill, idx) => {
                         return (
-                            <span>
+                            <span key={skill}>
                                 {skill}{idx < item.skills.length - 1 ? <span>, </span> : null}
                             </span>
                         );
